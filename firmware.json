@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-http",
-    "version": 2,
-    "host": "192.168.0.100",
+    "version": 3,
+    "host": "https://raw.githubusercontent.com",
     "port": 80,
-    "bin": "/fota/esp32-fota-http-2.bin"
+    "bin": "/Samebusa/TEST/main/test.bin"
 }
