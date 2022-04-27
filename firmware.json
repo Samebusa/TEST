@@ -3,5 +3,5 @@
     "version": 3,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/Samebusa/TEST/main/test.bin"
+    "bin": "/Samebusa/TEST/main/firmware.bin"
 }
